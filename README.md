@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firekaikai
+- 👋 Hi, I’m @fire kaikai
 - 👀 I’m interested in robot
 - 🌱 I’m currently learning Simulink
 - 💞️ I’m looking to collaborate on GitHub
